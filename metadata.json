@@ -1,0 +1,6 @@
+{
+  "name": "دار الأناقة للبدلات الرجالية",
+  "description": "متجر متكامل وفاخر للبدلات الرجالية الإيطالية والكلاسيكية وبدلات الأعراس والمناسبات، يشمل عرض المنتجات، قصة الدار، ونموذج التواصل وحجز المواعيد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
